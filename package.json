@@ -1,0 +1,22 @@
+{
+  "name": "personal-data-storage",
+  "version": "1.0.0",
+  "description": "Module for NodeJs, which allows to safely store personal data according to PCI DSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrSergey/personal-data-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrSergey/personal-data-storage/issues"
+  },
+  "homepage": "https://github.com/AbrSergey/personal-data-storage#readme",
+  "dependencies": {
+    "mongoose": "^5.5.7"
+  }
+}
