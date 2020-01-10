@@ -6,6 +6,7 @@ Module for NodeJs, which allows to safely store personal data according to PCI D
 schema = {
   column_1: {
     validation: { object },
-    security: bool
+    security: bool,
+    search: "entire" || "word"
   }
 }
